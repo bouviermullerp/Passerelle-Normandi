@@ -13,3 +13,8 @@ Tiers lieu + santé + agriculture
 ## Calendrier
 Livraison idéale dans 6 mois, maximum dans 2 ans
 
+1 - Retours de Data Players et de l'Assemblée Virtuelle sur les premières propositions (25 septembre)
+2 - Révision/affinage des propositions sur la base des retours reçus (semaine du 28 septembre)
+3 - Rédaction du cahier des charges (semaine du 5 octobre)
+4 - Retours et discussions autour du cahier des charges (semaine du 12 octobre)
+5 - Lancement du travail de développement (semaine du 19 octobre)
